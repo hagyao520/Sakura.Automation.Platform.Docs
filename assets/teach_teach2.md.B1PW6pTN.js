@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.0yfgApQh.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"teach/teach2.md","filePath":"teach/teach2.md"}'),c={name:"teach/teach2.md"};function r(o,s,n,h,p,_){return a(),t("div")}const m=e(c,[["render",r]]);export{i as __pageData,m as default};
